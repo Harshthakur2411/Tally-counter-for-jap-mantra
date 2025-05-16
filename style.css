@@ -19,7 +19,7 @@ h2{
 }
 .main{
     text-align: center;
-    height: 600px;
+    height: 700px;
     width: 400px;
     border: 2px solid black;
     padding: 20px;
@@ -61,7 +61,7 @@ h2{
     border-radius: 50%;
     background-color: rgba(245, 245, 220, 0.425);
     border: 2px solid rgb(9, 0, 0);
-    margin: 20px;
+    margin: 0px;
     margin-left: 100px;
     display: flex;
     align-items: center;
@@ -87,7 +87,7 @@ h2{
       width: 90vw;
       height: 600px;
       padding: 15px;
-      margin-top: 100px;
+      margin-top: 80px;
     }
   
     .container {
