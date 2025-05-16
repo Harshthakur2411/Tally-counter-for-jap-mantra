@@ -85,7 +85,7 @@ h2{
 @media (max-width: 600px) {
     .main {
       width: 90vw;
-      height: 500px;
+      height: 600px;
       padding: 15px;
       margin-top: 100px;
     }
